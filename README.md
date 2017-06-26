@@ -1,8 +1,10 @@
 # food-tracker
 ## Meal List View
 <img width="200" alt="alt text" src="https://github.com/infinitebliss/food-tracker/blob/master/screenshots/1.PNG">
+
 ## Create Meal View
 <img width="200" alt="alt text" src="https://github.com/infinitebliss/food-tracker/blob/master/screenshots/2.PNG">
+
 ## Edit List View
 <img width="200" alt="alt text" src="https://github.com/infinitebliss/food-tracker/blob/master/screenshots/3.PNG">
 
